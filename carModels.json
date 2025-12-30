@@ -1,5 +1,122 @@
-{
-
-"Hello"
-  
-}
+[
+  {
+    "id": 1,
+    "title": "Tesla Model S",
+    "description": "Electric luxury sedan with high performance and long range.",
+    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/tesla_model_s.jpg"
+  },
+  {
+    "id": 2,
+    "title": "BMW M5",
+    "description": "High-performance executive sedan with twin-turbo V8 engine.",
+    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/bmw_m5.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Audi RS7",
+    "description": "Sportback luxury car combining elegance and power.",
+    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/audi_rs7.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Mercedes-Benz AMG GT",
+    "description": "Luxury sports car with aggressive design and performance.",
+    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/mercedes_amg_gt.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Porsche 911",
+    "description": "Iconic sports car with timeless design and precision handling.",
+    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/porsche_911.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Lamborghini Huracán",
+    "description": "Exotic supercar with V10 engine and sharp aerodynamics.",
+    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/lamborghini_huracan.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Ferrari F8 Tributo",
+    "description": "Mid-engine supercar delivering extreme speed and control.",
+    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/ferrari_f8.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Range Rover Sport",
+    "description": "Luxury SUV combining comfort and off-road capability.",
+    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/range_rover_sport.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Toyota Land Cruiser",
+    "description": "Reliable SUV known for durability and off-road strength.",
+    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/toyota_land_cruiser.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Ford Mustang GT",
+    "description": "American muscle car with powerful V8 engine.",
+    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/ford_mustang_gt.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Chevrolet Camaro",
+    "description": "Sporty coupe delivering aggressive performance.",
+    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/chevrolet_camaro.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Nissan GT-R",
+    "description": "High-performance sports car with advanced AWD system.",
+    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/nissan_gtr.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Honda Civic Type R",
+    "description": "Hot hatch focused on speed, handling, and track performance.",
+    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/honda_civic_type_r.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Volkswagen Golf R",
+    "description": "Compact performance hatchback with all-wheel drive.",
+    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/vw_golf_r.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Hyundai Ioniq 5",
+    "description": "Modern electric crossover with futuristic design.",
+    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/hyundai_ioniq_5.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Kia EV6",
+    "description": "Electric crossover offering fast charging and sporty look.",
+    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/kia_ev6.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Mazda MX-5",
+    "description": "Lightweight roadster designed for pure driving pleasure.",
+    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/mazda_mx5.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Subaru WRX STI",
+    "description": "Rally-inspired sedan with turbocharged performance.",
+    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/subaru_wrx_sti.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Jeep Wrangler",
+    "description": "Iconic off-road vehicle built for adventure.",
+    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/jeep_wrangler.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Peugeot 508",
+    "description": "Elegant sedan combining comfort and modern design.",
+    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/peugeot_508.jpg"
+  }
+]
