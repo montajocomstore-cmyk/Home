@@ -1,122 +1,122 @@
 [
-  {
-    "id": 1,
-    "title": "Tesla Model S",
-    "description": "Electric luxury sedan with high performance and long range.",
-    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/tesla_model_s.jpg"
-  },
-  {
-    "id": 2,
-    "title": "BMW M5",
-    "description": "High-performance executive sedan with twin-turbo V8 engine.",
-    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/bmw_m5.jpg"
-  },
-  {
-    "id": 3,
-    "title": "Audi RS7",
-    "description": "Sportback luxury car combining elegance and power.",
-    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/audi_rs7.jpg"
-  },
-  {
-    "id": 4,
-    "title": "Mercedes-Benz AMG GT",
-    "description": "Luxury sports car with aggressive design and performance.",
-    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/mercedes_amg_gt.jpg"
-  },
-  {
-    "id": 5,
-    "title": "Porsche 911",
-    "description": "Iconic sports car with timeless design and precision handling.",
-    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/porsche_911.jpg"
-  },
-  {
-    "id": 6,
-    "title": "Lamborghini Huracán",
-    "description": "Exotic supercar with V10 engine and sharp aerodynamics.",
-    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/lamborghini_huracan.jpg"
-  },
-  {
-    "id": 7,
-    "title": "Ferrari F8 Tributo",
-    "description": "Mid-engine supercar delivering extreme speed and control.",
-    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/ferrari_f8.jpg"
-  },
-  {
-    "id": 8,
-    "title": "Range Rover Sport",
-    "description": "Luxury SUV combining comfort and off-road capability.",
-    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/range_rover_sport.jpg"
-  },
-  {
-    "id": 9,
-    "title": "Toyota Land Cruiser",
-    "description": "Reliable SUV known for durability and off-road strength.",
-    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/toyota_land_cruiser.jpg"
-  },
-  {
-    "id": 10,
-    "title": "Ford Mustang GT",
-    "description": "American muscle car with powerful V8 engine.",
-    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/ford_mustang_gt.jpg"
-  },
-  {
-    "id": 11,
-    "title": "Chevrolet Camaro",
-    "description": "Sporty coupe delivering aggressive performance.",
-    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/chevrolet_camaro.jpg"
-  },
-  {
-    "id": 12,
-    "title": "Nissan GT-R",
-    "description": "High-performance sports car with advanced AWD system.",
-    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/nissan_gtr.jpg"
-  },
-  {
-    "id": 13,
-    "title": "Honda Civic Type R",
-    "description": "Hot hatch focused on speed, handling, and track performance.",
-    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/honda_civic_type_r.jpg"
-  },
-  {
-    "id": 14,
-    "title": "Volkswagen Golf R",
-    "description": "Compact performance hatchback with all-wheel drive.",
-    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/vw_golf_r.jpg"
-  },
-  {
-    "id": 15,
-    "title": "Hyundai Ioniq 5",
-    "description": "Modern electric crossover with futuristic design.",
-    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/hyundai_ioniq_5.jpg"
-  },
-  {
-    "id": 16,
-    "title": "Kia EV6",
-    "description": "Electric crossover offering fast charging and sporty look.",
-    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/kia_ev6.jpg"
-  },
-  {
-    "id": 17,
-    "title": "Mazda MX-5",
-    "description": "Lightweight roadster designed for pure driving pleasure.",
-    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/mazda_mx5.jpg"
-  },
-  {
-    "id": 18,
-    "title": "Subaru WRX STI",
-    "description": "Rally-inspired sedan with turbocharged performance.",
-    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/subaru_wrx_sti.jpg"
-  },
-  {
-    "id": 19,
-    "title": "Jeep Wrangler",
-    "description": "Iconic off-road vehicle built for adventure.",
-    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/jeep_wrangler.jpg"
-  },
-  {
-    "id": 20,
-    "title": "Peugeot 508",
-    "description": "Elegant sedan combining comfort and modern design.",
-    "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/peugeot_508.jpg"
-  }
+    {
+        "id": 1,
+        "title": "Tesla Model S",
+        "description": "The Tesla Model S is a premium electric sedan designed to deliver high performance and long-range driving. It features a minimalist interior with a large touchscreen interface. The vehicle is powered entirely by electricity, offering instant torque and smooth acceleration. Advanced autopilot and driver-assistance systems enhance safety and convenience. The Model S is known for its quiet ride and aerodynamic design. It supports fast charging through Tesla’s Supercharger network. The cabin offers generous space for passengers and luggage. Software updates are delivered over the air, improving features over time. This car represents the future of luxury electric mobility.",
+        "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/tesla_model_s.jpg"
+    },
+    {
+        "id": 2,
+        "title": "BMW M5",
+        "description": "The BMW M5 is a high-performance luxury sedan that blends comfort with extreme power. It is equipped with a twin-turbocharged V8 engine delivering impressive acceleration. The interior combines premium materials with advanced driving technology. Adaptive suspension ensures stability at high speeds and comfort during daily use. The M5 includes multiple driving modes for different road conditions. Its design reflects a balance between elegance and aggression. Advanced infotainment and safety systems enhance the driving experience. The car is suitable for both business and performance enthusiasts. It represents BMW’s motorsport heritage in a refined package.",
+        "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/bmw_m5.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Audi RS7",
+        "description": "The Audi RS7 is a luxury sportback designed for drivers who demand power and sophistication. It features a powerful turbocharged engine paired with Audi’s quattro all-wheel-drive system. The exterior design is sleek and aggressive with aerodynamic enhancements. Inside, the cabin offers premium leather, digital displays, and advanced controls. The RS7 provides exceptional handling and stability at high speeds. Adaptive suspension adjusts to driving conditions in real time. Cutting-edge safety features ensure confidence on long journeys. The car delivers both comfort and performance effortlessly. It is ideal for drivers seeking a refined yet sporty experience.",
+        "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/audi_rs7.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Mercedes-Benz AMG GT",
+        "description": "The Mercedes-Benz AMG GT is a luxury sports car engineered for precision and power. It features a handcrafted engine developed by AMG specialists. The car’s low and wide stance enhances aerodynamic performance. Inside, the cockpit is driver-focused with premium materials and digital displays. The suspension system provides exceptional cornering stability. Advanced driving modes allow customization of performance settings. The exhaust sound is tuned for a powerful driving presence. Safety and driver assistance technologies are integrated seamlessly. This vehicle represents performance excellence combined with Mercedes-Benz luxury.",
+        "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/mercedes_amg_gt.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Porsche 911",
+        "description": "The Porsche 911 is an iconic sports car recognized worldwide for its design and performance. It features a rear-engine layout that delivers unique handling characteristics. The vehicle is engineered with precision for both road and track use. The interior combines luxury with a driver-centric layout. Advanced suspension and braking systems ensure exceptional control. The 911 offers multiple performance variants to suit different driving styles. Modern infotainment integrates seamlessly with classic design elements. Its reliability and engineering excellence are well known. This car is a benchmark in the sports car segment.",
+        "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/porsche_911.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Lamborghini Huracán",
+        "description": "The Lamborghini Huracán is a supercar built for extreme performance and bold design. It is powered by a naturally aspirated V10 engine. The sharp exterior lines reflect Lamborghini’s aggressive styling philosophy. Inside, the cabin features premium materials and advanced digital instrumentation. The all-wheel-drive system ensures maximum traction and control. Driving modes allow adaptation to street or track conditions. The Huracán delivers rapid acceleration and a thrilling driving experience. Advanced aerodynamics enhance stability at high speeds. This car is designed for enthusiasts who seek excitement and exclusivity.",
+        "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/lamborghini_huracan.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Ferrari F8 Tributo",
+        "description": "The Ferrari F8 Tributo is a mid-engine supercar focused on speed and precision. It features a turbocharged V8 engine with exceptional power output. The aerodynamic design improves downforce and cooling efficiency. The interior is crafted for performance-oriented driving. Advanced traction and stability systems enhance control. Lightweight construction improves handling and acceleration. The F8 delivers an emotional driving experience with Ferrari heritage. Cutting-edge technology supports both comfort and performance. This vehicle represents Ferrari’s engineering excellence and racing legacy.",
+        "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/ferrari_f8.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Range Rover Sport",
+        "description": "The Range Rover Sport is a luxury SUV designed for both road comfort and off-road capability. It features a refined interior with premium materials. Advanced suspension adapts to various terrains. The vehicle offers powerful engine options for confident performance. Driver assistance systems enhance safety and control. Spacious seating ensures comfort for long journeys. The design combines elegance with a strong presence. Modern infotainment provides connectivity and entertainment. This SUV is ideal for luxury and adventure combined.",
+        "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/range_rover_sport.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Toyota Land Cruiser",
+        "description": "The Toyota Land Cruiser is known for its durability and off-road strength. It is built to handle extreme terrains and harsh conditions. The interior provides comfort and reliability for long trips. Powerful engines deliver consistent performance. Advanced four-wheel-drive systems enhance traction. The vehicle is widely trusted for long-term reliability. Safety features protect passengers in challenging environments. The design emphasizes strength and functionality. It is a symbol of endurance and dependability.",
+        "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/toyota_land_cruiser.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Ford Mustang GT",
+        "description": "The Ford Mustang GT is a legendary American muscle car. It features a powerful V8 engine delivering strong acceleration. The exterior design reflects classic muscle car heritage. Inside, modern technology meets retro-inspired styling. Performance suspension enhances road handling. Driving modes adapt to different driving styles. The exhaust delivers a distinctive sound. Safety systems support confident driving. This car represents freedom and performance.",
+        "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/ford_mustang_gt.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Chevrolet Camaro",
+        "description": "The Chevrolet Camaro is a sporty coupe built for performance and bold styling. It features powerful engine options designed for strong acceleration. The exterior design is aggressive and aerodynamic. Inside, the cabin blends modern technology with driver-focused controls. Performance suspension improves handling and road grip. Multiple driving modes allow customization of driving behavior. Advanced safety features support confident driving. The Camaro delivers an engaging driving experience. It is a symbol of American muscle and modern performance.",
+        "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/chevrolet_camaro.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Nissan GT-R",
+        "description": "The Nissan GT-R is a high-performance sports car engineered with advanced technology. It features a twin-turbocharged engine delivering exceptional speed. The all-wheel-drive system provides outstanding traction. Aerodynamic design enhances stability at high speeds. The interior is focused on performance and driver control. Advanced electronics optimize handling and acceleration. The GT-R is known for its track-ready capabilities. Precision engineering ensures consistent performance. It is often referred to as a supercar killer.",
+        "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/nissan_gtr.jpg"
+    },
+    {
+        "id": 13,
+        "title": "Honda Civic Type R",
+        "description": "The Honda Civic Type R is a performance-focused hatchback built for speed and handling. It features a turbocharged engine with high power output. The lightweight chassis improves agility and responsiveness. Aggressive exterior styling reflects its racing DNA. The interior includes sport seats and performance instrumentation. Advanced suspension enhances cornering stability. Precision steering provides excellent driver feedback. The Type R is suitable for both daily driving and track use. It represents Honda’s engineering excellence.",
+        "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/honda_civic_type_r.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Volkswagen Golf R",
+        "description": "The Volkswagen Golf R is a compact performance hatchback with refined design. It features a turbocharged engine paired with all-wheel drive. The interior combines comfort with sporty details. Advanced driving modes allow performance customization. The suspension balances comfort and agility. Digital infotainment enhances connectivity and usability. The Golf R offers strong acceleration in a practical body. Safety features ensure everyday confidence. It is ideal for drivers seeking performance and versatility.",
+        "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/vw_golf_r.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Hyundai Ioniq 5",
+        "description": "The Hyundai Ioniq 5 is an electric crossover with a futuristic design. It offers fast charging and impressive driving range. The interior emphasizes space and minimalism. Advanced driver assistance systems improve safety. The electric powertrain delivers smooth and quiet performance. The vehicle supports modern connectivity features. Sustainable materials are used throughout the cabin. The Ioniq 5 is designed for urban and long-distance driving. It represents Hyundai’s vision for electric mobility.",
+        "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/hyundai_ioniq_5.jpg"
+    },
+    {
+        "id": 16,
+        "title": "Kia EV6",
+        "description": "The Kia EV6 is a modern electric crossover focused on performance and design. It features rapid acceleration and fast charging capability. The exterior design is sporty and aerodynamic. Inside, the cabin offers advanced digital displays. The electric drivetrain ensures smooth and silent driving. Safety systems provide driver confidence. The EV6 balances performance with everyday usability. Interior space is optimized for comfort. It reflects Kia’s innovation in electric vehicles.",
+        "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/kia_ev6.jpg"
+    },
+    {
+        "id": 17,
+        "title": "Mazda MX-5",
+        "description": "The Mazda MX-5 is a lightweight roadster designed for pure driving enjoyment. It features a balanced chassis and responsive engine. The compact design enhances agility and handling. The interior focuses on driver engagement. Rear-wheel drive delivers classic sports car dynamics. The MX-5 is known for reliability and fun. Its design emphasizes simplicity and performance. The car is suitable for daily use and weekend drives. It embodies the joy of driving.",
+        "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/mazda_mx5.jpg"
+    },
+    {
+        "id": 18,
+        "title": "Subaru WRX STI",
+        "description": "The Subaru WRX STI is inspired by rally racing heritage. It features a turbocharged engine with all-wheel drive. The suspension is tuned for performance driving. The exterior design reflects motorsport influence. The interior includes sport-focused controls. Advanced traction systems improve handling on all surfaces. The WRX STI delivers strong acceleration and grip. It is suitable for enthusiasts who enjoy spirited driving. This car represents Subaru’s performance legacy.",
+        "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/subaru_wrx_sti.jpg"
+    },
+    {
+        "id": 19,
+        "title": "Jeep Wrangler",
+        "description": "The Jeep Wrangler is an iconic off-road vehicle built for adventure. It features robust construction and four-wheel drive. The design emphasizes durability and capability. The interior is functional and practical. Advanced off-road systems handle difficult terrain. The Wrangler is known for customization options. It performs well on trails and rough roads. Safety features support outdoor exploration. It is a symbol of freedom and exploration.",
+        "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/jeep_wrangler.jpg"
+    },
+    {
+        "id": 20,
+        "title": "Peugeot 508",
+        "description": "The Peugeot 508 is a modern sedan combining elegance and comfort. It features a sleek and aerodynamic design. The interior offers premium materials and digital displays. Engine options provide efficient performance. Advanced safety systems enhance driving confidence. The suspension ensures a smooth ride. Infotainment features improve connectivity. The 508 is designed for daily commuting and long trips. It reflects modern European automotive design.",
+        "imageUrl": "https://raw.githubusercontent.com/montajocomstore-cmyk/Home/refs/heads/main/peugeot_508.jpg"
+    }
 ]
